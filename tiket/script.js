@@ -46,7 +46,7 @@ document.getElementById('button').addEventListener('click', function() {
 
 
 function enviarCorreoConAdjunto() {
-    emailjs.init('m5P70IDvTWdIJn2Ve');
+    emailjs.init('yourkey');
 
     const btn = document.getElementById('button');
 
